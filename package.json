@@ -1,0 +1,15 @@
+{
+  "name": "stop-watch",
+  "author": "seo jun yoo",
+  "version": "1.0.0",
+  "source": "src/index.html",
+  "scripts": {
+    "dev": "parcel --open -p 3000",
+    "start": "parcel",
+    "build": "rm -rf dist && parcel build"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  },
+  "license": "ISC"
+}
