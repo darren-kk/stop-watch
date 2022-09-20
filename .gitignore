@@ -106,3 +106,4 @@ dist
 yarn.lock
 build/
 docs/
+.parcel-cache
